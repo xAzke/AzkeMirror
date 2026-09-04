@@ -1,6 +1,7 @@
 {
   "meta": {
     "name": "AzkeMirror",
-    "website": "https://github.com/xAzke/AzkeMirror"
+    "website": "https://github.com/xAzke/AzkeMirror",
+    "signingKeyFingerprint": "fd0da6e31f2bdb2016214e909e4be7aef016b45725617f143e728746dd918314"
   }
 }
