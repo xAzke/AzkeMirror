@@ -1,0 +1,21 @@
+[
+  {
+    "name": "ManhwaShot",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhwashot",
+    "apk": "apk/tachiyomi-es.manhwashot-v1.6.1.apk",
+    "lang": "es",
+    "code": 106001,
+    "version": "1.6.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "id": "6396464356141656797",
+        "name": "ManhwaShot",
+        "lang": "es",
+        "baseUrl": "https://manhwashot.lat"
+      }
+    ]
+  }
+]
