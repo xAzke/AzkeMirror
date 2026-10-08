@@ -1,5 +1,24 @@
 [
   {
+    "name": "Dragon Translation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.dragontranslation",
+    "apk": "tachiyomi-es.dragontranslation-v1.6.1.apk",
+    "lang": "es",
+    "code": 106001,
+    "version": "1.6.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "id": "4130164888475509452",
+        "name": "Dragon Translation",
+        "lang": "es",
+        "baseUrl": "https://dragontranslation.org"
+      }
+    ]
+  },
+  {
     "name": "ManhwaShot",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwashot",
     "apk": "tachiyomi-es.manhwashot-v1.6.2.apk",
