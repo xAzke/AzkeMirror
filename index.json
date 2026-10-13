@@ -36,5 +36,24 @@
         "baseUrl": "https://manhwashot.lat"
       }
     ]
+  },
+  {
+    "name": "Yuri Online",
+    "pkg": "eu.kanade.tachiyomi.extension.es.yurionline",
+    "apk": "tachiyomi-es.yurionline-v1.6.1.apk",
+    "lang": "es",
+    "code": 106001,
+    "version": "1.6.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "id": "2843112826373816061",
+        "name": "Yuri Online",
+        "lang": "es",
+        "baseUrl": "https://yuri-online.com"
+      }
+    ]
   }
 ]
