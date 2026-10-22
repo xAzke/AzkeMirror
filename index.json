@@ -38,6 +38,25 @@
     ]
   },
   {
+    "name": "Olympus Scanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
+    "apk": "tachiyomi-es.olympusscanlation-v1.6.3.apk",
+    "lang": "es",
+    "code": 106003,
+    "version": "1.6.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "id": "1596411039134168890",
+        "name": "Olympus Scanlation",
+        "lang": "es",
+        "baseUrl": "https://olympusxyz.com"
+      }
+    ]
+  },
+  {
     "name": "Yuri Online",
     "pkg": "eu.kanade.tachiyomi.extension.es.yurionline",
     "apk": "tachiyomi-es.yurionline-v1.6.2.apk",
