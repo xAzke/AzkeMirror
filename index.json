@@ -21,10 +21,10 @@
   {
     "name": "ManhwaShot",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwashot",
-    "apk": "tachiyomi-es.manhwashot-v1.6.4.apk",
+    "apk": "tachiyomi-es.manhwashot-v1.6.5.apk",
     "lang": "es",
-    "code": 106004,
-    "version": "1.6.4",
+    "code": 106005,
+    "version": "1.6.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
