@@ -38,6 +38,25 @@
     ]
   },
   {
+    "name": "ManhwaWeb",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
+    "apk": "tachiyomi-es.manhwaweb-v1.6.1.apk",
+    "lang": "es",
+    "code": 106001,
+    "version": "1.6.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "id": "5943212552955476721",
+        "name": "ManhwaWeb",
+        "lang": "es",
+        "baseUrl": "https://manhwaweb.com"
+      }
+    ]
+  },
+  {
     "name": "Olympus Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
     "apk": "tachiyomi-es.olympusscanlation-v1.6.3.apk",
