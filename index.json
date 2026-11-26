@@ -40,10 +40,10 @@
   {
     "name": "ManhwaWeb",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
-    "apk": "tachiyomi-es.manhwaweb-v1.6.1.apk",
+    "apk": "tachiyomi-es.manhwaweb-v1.6.2.apk",
     "lang": "es",
-    "code": 106001,
-    "version": "1.6.1",
+    "code": 106002,
+    "version": "1.6.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
